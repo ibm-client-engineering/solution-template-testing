@@ -12,7 +12,7 @@ module.exports = {
         name: 'IBM Client Engineering | [Insert Solution Name]',
         icon: 'src/images/favicon.svg',
         short_name: '[Insert Solution Name]',
-        start_url: '/',
+        start_url: '/solution-template-testing',
         background_color: '#ffffff',
         theme_color: '#161616',
         display: 'browser',
