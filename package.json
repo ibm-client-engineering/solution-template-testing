@@ -7,7 +7,7 @@
     "dev": "gatsby develop -H 0.0.0.0",
     "deploy": "gatsby build --prefix-paths", 
     "dev:clean": "gatsby clean && gatsby develop -H 0.0.0.0",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "build:clean": "yarn clean && gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
